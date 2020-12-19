@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="GAMELAUNCHER00011"><value>Error</value></data>
+  <data name="GAMELAUNCHER00013"><value>Email not found</value></data>
+  <data name="GAMELAUNCHER00015"><value>Wrong password</value></data>
+  <data name="GAMELAUNCHER00016"><value>Service is unavailable</value></data>
+  <data name="GAMELAUNCHER00017"><value>DOWNLOAD INITIALIZING...</value></data>
+  <data name="GAMELAUNCHER00018"><value>ESTIMATING...</value></data>
+  <data name="GAMELAUNCHER00019"><value>DOWNLOADING ({0}/{1}) - TIME REMAINING : {2}</value></data>
+  <data name="GAMELAUNCHER00032"><value>STOPPING...</value></data>
+  <data name="GAMELAUNCHER00030"><value>The executable '{0}' does not exist, please download the game again to make sure the file is complete</value></data>
+  <data name="GAMELAUNCHER00031"><value>Failed to start the game</value></data>
+  <data name="GAMELAUNCHER00054"><value>The game executable is corrupt. Please update the game again.</value></data>
+  <data name="GAMELAUNCHER00055"><value>There is not enough space in the disk to download the game. Please free some space and try again.</value></data>
+  <data name="GAMELAUNCHER00056"><value>There is not enough space in the drive '{0}' to download the game, the game needs {1:0.##} MB and you have {2:0.##} MB. Please free some space and try again.</value></data>
+  <data name="GAMELAUNCHER00057"><value>Wrong username or password ({0}) - please try again.</value></data>
+  <data name="GAMELAUNCHER00050"><value>Update required</value></data>
+  <data name="GAMELAUNCHER00051"><value>There has been an error downloading the game. Please make sure that your connection is working and retry.</value></data>
+  <data name="GAMELAUNCHER00052"><value>You must accept the Terms of Service in order to proceed.</value></data>
+  <data name="GAMELAUNCHER00053"><value>Terms of Service</value></data>
+  <data name="GAMELAUNCHER00058"><value>Need for Speed World is currently experiencing a high volume of players in-game. Only users who have Priority Access will be able to login. Please note that purchasing SpeedBoost will grant enduring Priority Access and immediate login credentials.</value></data>
+  <data name="GAMELAUNCHER00059"><value>The session has timed out, please log in again.</value></data>
+  <data name="GAMELAUNCHER00020"><value>DOWNLOAD COMPLETED</value></data>
+  <data name="GAMELAUNCHER00025"><value>DOWNLOAD FAILED!</value></data>
+  <data name="GAMELAUNCHER00028"><value>CANCEL</value></data>
+  <data name="GAMELAUNCHER00076"><value>SELECT DOWNLOAD SIZE:</value></data>
+  <data name="GAMELAUNCHER00077"><value>Select the size of the game resources that you would like to download. Selecting Maximum will download larger texture resources and will result in a 30% longer download. This is only recommended for higher-end machines.</value></data>
+  <data name="GAMELAUNCHER00074"><value>SELECT LANGUAGE:</value></data>
+  <data name="GAMELAUNCHER00075"><value>Select the language that the game text and audio should be displayed in. This will not affect your chat or server options.</value></data>
+  <data name="GAMELAUNCHER00072"><value>SELECT SHARD:</value></data>
+  <data name="GAMELAUNCHER00073"><value>PLEASE SELECT YOUR GAME SETTINGS:</value></data>
+  <data name="GAMELAUNCHER00070"><value>Question</value></data>
+  <data name="GAMELAUNCHER00071"><value>Need for Speed World is currently experiencing a high volume of players in-game. Please try logging in at a later time.</value></data>
+  <data name="GAMELAUNCHER00078"><value>CONTINUE</value></data>
+  <data name="GAMELAUNCHER00079"><value>PLEASE SELECT YOUR GAME FOLDER</value></data>
+  <data name="GAMELAUNCHER00045"><value>There has been an undefined error, please check that the servers are availiable and try again.</value></data>
+  <data name="GAMELAUNCHER00044"><value>There has been an error connecting to the server. Please check your network connection and try again.</value></data>
+  <data name="GAMELAUNCHER00047"><value>VERIFICATION COMPLETED!</value></data>
+  <data name="GAMELAUNCHER00046"><value>VERIFYING ({0}/{1}) - TIME REMAINING : {2}</value></data>
+  <data name="GAMELAUNCHER00041"><value>PLAY</value></data>
+  <data name="GAMELAUNCHER00049"><value>There is a new version of the application, you need to update it in order to proceed.{0}{0}Do you want to update it now?{0}{0}Note: If you do not update you will be unable to continue.{0}Updating requires administration rights.</value></data>
+  <data name="GAMELAUNCHER00048"><value>There has been an error retrieving information from the server.</value></data>
+  <data name="GAMELAUNCHER00067"><value>KB</value></data>
+  <data name="GAMELAUNCHER00066"><value>MB</value></data>
+  <data name="GAMELAUNCHER00065"><value>GB</value></data>
+  <data name="GAMELAUNCHER00064"><value>The servers are currently up and running.</value></data>
+  <data name="GAMELAUNCHER00063"><value>The servers are currently down. Thanks for your patience.</value></data>
+  <data name="GAMELAUNCHER00062"><value>The application has detected a problem with the server configuration. Please try again later. If the problems persists, please check http://world.needforspeed.com for more information.</value></data>
+  <data name="GAMELAUNCHER00061"><value>You are currently banned from playing the game. Please contact customer service.</value></data>
+  <data name="GAMELAUNCHER00060"><value>You are currently not authorized to access the game. Please login at http://world.needforspeed.com/download{0} to complete registration. If the problem persists, please contact Customer Service.</value></data>
+  <data name="GAMELAUNCHER00069"><value>You will be downloading higher quality textures to enable maximum visual quality settings. This will require a larger and longer client download.</value></data>
+  <data name="GAMELAUNCHER00068"><value>Bytes</value></data>
+  <data name="GAMELAUNCHER00081"><value>This account has been permanently banned for violations of the Terms of Service.</value></data>
+  <data name="GAMELAUNCHER00080"><value>Select a folder where the game will be downloaded, this folder needs to have write access for anyone playing the game.</value></data>
+  <data name="GAMELAUNCHER00082"><value>Authentication is temporarily unavailable, please try again later.</value></data>
+  <data name="CUSTOMMESSAGEBOX00001"><value>OK</value></data>
+  <data name="CUSTOMMESSAGEBOX00002"><value>Yes</value></data>
+  <data name="CUSTOMMESSAGEBOX00003"><value>No</value></data>
+  <data name="PROGRAM00005"><value>The executable is corrupted. Please reinstall the application again.</value></data>
+  <data name="PROGRAM00004"><value>Error</value></data>
+  <data name="PROGRAM00007"><value>It is not possible to start the updater while the game is running.</value></data>
+  <data name="PROGRAM00006"><value>The installation is corrupted. Please reinstall the game.</value></data>
+  <data name="PROGRAM00008"><value>There has been an error starting the application. Please contact Customer Support if the problem persists.</value></data>
+  <data name="TOS00004"><value>I ACCEPT</value></data>
+  <data name="TOS00001"><value>NEED FOR SPEED™ WORLD TERMS OF SERVICE</value></data>
+  <data name="TOS00003"><value>I DECLINE</value></data>
+  <data name="TOS00002"><value>I HAVE READ AND ACCEPT THE TERMS OF SERVICE</value></data>
+  <data name="GAMELAUNCHERDESIGNER00051"><value>Maximum</value></data>
+  <data name="GAMELAUNCHERDESIGNER00050"><value>Standard</value></data>
+  <data name="GAMELAUNCHERDESIGNER00040"><value>North America</value></data>
+  <data name="GAMELAUNCHERDESIGNER00041"><value>Europe</value></data>
+  <data name="GAMELAUNCHERDESIGNER00049"><value>DOWNLOAD SIZE:</value></data>
+  <data name="GAMELAUNCHERDESIGNER00015"><value>REMEMBER MY EMAIL ADDRESS</value></data>
+  <data name="GAMELAUNCHERDESIGNER00014"><value>VERSION: {0}</value></data>
+  <data name="GAMELAUNCHERDESIGNER00017"><value>LOG IN</value></data>
+  <data name="GAMELAUNCHERDESIGNER00016"><value>EMAIL ADDRESS:</value></data>
+  <data name="GAMELAUNCHERDESIGNER00018"><value>PASSWORD:</value></data>
+  <data name="GAMELAUNCHERDESIGNER00004"><value>SELECT LANGUAGE:</value></data>
+  <data name="GAMELAUNCHERDESIGNER00001"><value>Press [UPDATE] to begin downloading game updates</value></data>
+  <data name="GAMELAUNCHERDESIGNER00003"><value>SELECT REGION:</value></data>
+  <data name="GAMELAUNCHERDESIGNER00037"><value>Visit our Customer Support page</value></data>
+  <data name="GAMELAUNCHERDESIGNER00036"><value>HAVING TROUBLE?</value></data>
+  <data name="GAMELAUNCHERDESIGNER00035"><value>CLICK HERE TO CREATE ONE NOW...</value></data>
+  <data name="GAMELAUNCHERDESIGNER00034"><value>DON'T HAVE AN ACCOUNT?</value></data>
+  <data name="GAMELAUNCHERDESIGNER00033"><value>SELECT REGION INFORMATION</value></data>
+  <data name="GAMELAUNCHERDESIGNER00032"><value>ENTER YOUR ACCOUNT INFORMATION TO LOG IN:</value></data>
+  <data name="GAMELAUNCHERDESIGNER00031"><value>START AUTOMATICALLY AFTER DOWNLOAD</value></data>
+  <data name="GAMELAUNCHERDESIGNER00030"><value>LOG OUT</value></data>
+  <data name="GAMELAUNCHERDESIGNER00039"><value>Retrieving server status...</value></data>
+  <data name="GAMELAUNCHERDESIGNER00038"><value>ADVERTISEMENT</value></data>
+  <data name="GAMELAUNCHERDESIGNER00027"><value>UPDATE</value></data>
+  <data name="GAMELAUNCHERDESIGNER00028"><value>I forgot my password.</value></data>
+  <data name="GAMELAUNCHERDESIGNER00029"><value>Logged in as {0}</value></data>
+  </root>
